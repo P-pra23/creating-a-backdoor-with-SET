@@ -23,10 +23,35 @@ Open terminal and try execute some kali linux commands
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
+![image](https://github.com/user-attachments/assets/9f66a23d-fa77-4780-b0ea-55c3f6925955)
 
+## Select menu 1 for Social Engineering Attacks:
+![image](https://github.com/user-attachments/assets/736f8cf9-3394-4f14-a4a6-c99966d1b203)
 
+## Menu and select 2 for Website Attack Vectors:
 
+![image](https://github.com/user-attachments/assets/35931396-6396-4581-8cf7-d8ee03488e8b)
 
+## Menu3 for Credential Harvester Attack Method is selected:
+![image](https://github.com/user-attachments/assets/848f1f6d-9c1f-49e7-a80b-85075c03ba4d)
+
+## Menu1 for Web Templates is selected:
+![image](https://github.com/user-attachments/assets/cf698d1c-c786-46b7-9c1d-583c0a9f8c91)
+
+## Ip address of the attacker need to be given:
+![image](https://github.com/user-attachments/assets/c56a9c49-1c8f-41f6-adcd-328cfccc9fa2)
+
+## The option Google can be selected:
+![image](https://github.com/user-attachments/assets/eaa86e55-36e0-4f27-8229-90e580766148)
+
+## Kali Linux Webserver on port 80, with the fake Google account login page.
+![image](https://github.com/user-attachments/assets/a03c9edb-f70b-4dc8-bb66-c4bb58b03be4)
+
+## The fake Google page is displayed. The victim can enter the username and password
+![image](https://github.com/user-attachments/assets/ba9e5a2a-f9d5-44fa-a8ae-3c61b6093aab)
+
+## SET logs the information regarding the Google credentials:
+![image](https://github.com/user-attachments/assets/bc2f0674-37ad-494f-b2e5-4192991fe26b)
 
 
 ## RESULT:
